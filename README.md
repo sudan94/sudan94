@@ -1,21 +1,12 @@
 <h1 align="center">Hey I am Sudan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
 <p align="center">
-  Welcome to my GitHub portfolio! I am currently studying Masters of Web and Data Science from the University of Koblenz.
+  Welcome to my GitHub portfolio! I am currently working as a software engineer.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudan94" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudan94?label=Follow&style=social">
-  </a>
   <a href="https://linkedin.com/in/sudan-upadhaya-9185b3185" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-    <a href="https://instagram.com/sudan.upadhaya" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/sudan94" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white">
   </a>
   <a href="mailto:sudanupadhaya@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
